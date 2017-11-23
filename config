@@ -1,0 +1,4 @@
+Host ayangz
+    HostName login.engin.umich.edu
+    User ayangz
+    Compression yes
